@@ -1,5 +1,6 @@
 # Sprint4-Mobile
 Repositório para Sprint 4 de Mobile para o Challenge.
+CRUD em React Native com Firebase.
 
 # Membros
 
